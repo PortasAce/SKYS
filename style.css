@@ -1,0 +1,23 @@
+/* Navbar */
+.nav {
+  background: #30a6e6;
+}
+.nav-item {
+  padding: 5px;
+}
+.nav-item:hover,
+.active {
+  background: #000000;
+}
+.nav-link,
+.nav-link:hover {
+  color: #ffffff;
+  font: bold 14px sans-serif;
+}
+/* Section */
+.hero-block {
+  background-image: url("img/КАРТИНКА.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
